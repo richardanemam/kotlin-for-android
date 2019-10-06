@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="603df259-541d-48fe-bbca-d726d77a1057" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections/CollectionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collections/CollectionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collections/META-INF/collections.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collections/META-INF/collections.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -39,7 +42,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.CollectionsChallengeKt">
+    <configuration name="CollectionsChallengeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="collections" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsChallengeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="collections" />
       <option name="VM_PARAMETERS" />
@@ -55,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CollectionsChallengeKt" />
         <item itemvalue="Kotlin.CollectionsKt" />
       </list>
     </recent_temporary>
