@@ -1,5 +1,5 @@
 /**
- * LAMBDA FUNCTTIONS:
+ * LAMBDA FUNCIONS:
  * Lambda expressions (or lambda functions) are essentially blocks of code that can be assigned to variables, passed as
  * an argument, or returned from a function call, in languages that support high-order functions.
  *
